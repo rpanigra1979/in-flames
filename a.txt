@@ -3,3 +3,4 @@ Added new line.
 Added another line.
 This line should conflict with feature2
 Added another line.
+This line will conflict with develop.

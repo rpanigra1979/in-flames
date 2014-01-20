@@ -2,4 +2,4 @@ While a README isn't a required part of a GitHub repository, it is a very good i
 Added new line.
 Added another line.
 This line should conflict with feature2
-Added another line.
+To conflict.
